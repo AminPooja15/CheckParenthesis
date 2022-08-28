@@ -1,0 +1,14 @@
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.exe
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.deps.json
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.runtimeconfig.json
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.runtimeconfig.dev.json
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.dll
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\bin\Debug\netcoreapp3.1\CheckParantesis.pdb
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.csproj.AssemblyReference.cache
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.AssemblyInfoInputs.cache
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.AssemblyInfo.cs
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.csproj.CoreCompileInputs.cache
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.dll
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.pdb
+C:\Users\rachu\Downloads\CheckParenthesis-master\CheckParenthesis-master\obj\Debug\netcoreapp3.1\CheckParantesis.genruntimeconfig.cache
